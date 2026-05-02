@@ -8,4 +8,4 @@ No APIs have been documented yet. Check back for updates.
 
 ## Properties
 
-- [Website](https://www.pinnacle-entertainment.com)
+- [Website](https://en.wikipedia.org/wiki/Pinnacle_Entertainment)
