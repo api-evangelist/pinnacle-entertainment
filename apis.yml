@@ -6,6 +6,10 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pinnacle-entertainment-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pinnacle-entertainment-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pinnacle-entertainment
   - type: Website
