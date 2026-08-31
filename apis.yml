@@ -31,6 +31,11 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/penn-national-gaming/
+    name: Penn National Gaming
+    x-relationship: acquired
+    x-evidence: "Pinnacle Entertainment was an owner and operator of regional gaming, hospitality, and entertainment properties before being acquired by Penn National Gaming."
   - type: VulnerabilityDisclosure
     url: security/pinnacle-entertainment-vulnerability-disclosure.yml
   - type: DomainSecurity
