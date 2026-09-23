@@ -1,7 +1,9 @@
 ---
 title: Pinnacle Entertainment, Inc. Reaches an Agreement to Settle ...
 url: https://www.hotel-online.com/news/archive-52362
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pinnacle Entertainment" press release artificial intelligence'
 position: 4
 source: serpapi-google

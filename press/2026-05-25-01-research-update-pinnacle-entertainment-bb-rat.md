@@ -1,7 +1,9 @@
 ---
 title: 'Research Update: Pinnacle Entertainment ''BB-'' Rat'
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/8115792
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pinnacle Entertainment" press release artificial intelligence'
 position: 1
 source: serpapi-google

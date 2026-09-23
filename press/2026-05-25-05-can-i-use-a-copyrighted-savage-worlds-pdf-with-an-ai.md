@@ -1,7 +1,9 @@
 ---
 title: Can I use a copyrighted Savage Worlds PDF with an AI ...
 url: https://www.facebook.com/groups/UnofficialSavageWorlds/posts/30625377270410902/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pinnacle Entertainment" press release artificial intelligence'
 position: 5
 source: serpapi-google
